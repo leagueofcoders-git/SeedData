@@ -1,5 +1,3 @@
-```
-
 USE [ecomdb]
 GO
 INSERT [dbo].[Categories] ([Id], [CategoryName]) VALUES (N'11111111-1111-1111-1111-111111111111', N'Fruits')
@@ -76,4 +74,3 @@ INSERT [dbo].[ProductMaster] ([SKU], [ProductID], [ProductName], [ProductPrice],
 ', N'ccde4e52-a80c-45db-a0fa-4412e894b4c8', N'Sweet Rocket
 ', CAST(9.99 AS Decimal(6, 2)), N'Very long product description', 1, N'11111111-1111-1111-1111-111111111111')
 GO
-```
