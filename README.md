@@ -1,4 +1,4 @@
-#Seed Data
+# **Seed Data**
 
 ```
 USE [ecomdb]
