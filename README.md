@@ -1,7 +1,7 @@
 # **Seed Data**
 
 ```
-USE [ecomdb]
+USE [ecommdb]
 GO
 INSERT [dbo].[Categories] ([Id], [CategoryName]) VALUES (N'11111111-1111-1111-1111-111111111111', N'Fruits')
 GO
